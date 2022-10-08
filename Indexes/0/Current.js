@@ -1,1 +1,1 @@
-LatestIndex = 0;
+	localStorage.setItem("OEXE_index","0")

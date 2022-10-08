@@ -1,0 +1,1 @@
+LatestIndex = 0;

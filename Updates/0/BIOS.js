@@ -3,3 +3,6 @@ var Client_Ver = "0.5.1"
 var BIOSfile = "";
 var b64Client = "";
 var ping = true;
+
+
+//test
